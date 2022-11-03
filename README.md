@@ -10,4 +10,5 @@ for two hands finger counterV2
 dependencies needed :
 
 opencv-python
+
 mediapipe
