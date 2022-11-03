@@ -12,3 +12,5 @@ dependencies needed :
 opencv-python
 
 mediapipe
+
+both can be setup easily with pip install
